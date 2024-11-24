@@ -4,6 +4,8 @@
 - 作者：栀染
 - 版本：1.0
 - 主页：http://www.zhiranet.cn
+## 功能演示图 
+![演示图](https://www.zhiranet.cn/usr/uploads/2024/11/97056213.png)
 ## 插件介绍
 一个简单易用的 Typecho 批量创建用户插件，支持自定义用户名和密码生成规则。
 ## 功能特点
