@@ -5,7 +5,7 @@
 - 版本：1.0
 - 主页：http://www.zhiranet.cn
 ## 功能演示图 
-![演示图](https://pic.imgdb.cn/item/67436c3188c538a9b5bb7672.jpg)
+![演示图](/BatchCreateUsers.png)
 ## 插件介绍
 一个简单易用的 Typecho 批量创建用户插件，支持自定义用户名和密码生成规则。
 ## 功能特点
