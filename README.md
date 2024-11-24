@@ -5,7 +5,7 @@
 - 版本：1.0
 - 主页：http://www.zhiranet.cn
 ## 功能演示图 
-![演示图](https://www.zhiranet.cn/usr/uploads/2024/11/97056213.png)
+![演示图]([https://www.zhiranet.cn/usr/uploads/2024/11/97056213.png](https://pic.imgdb.cn/item/67436c3188c538a9b5bb7672.jpg))
 ## 插件介绍
 一个简单易用的 Typecho 批量创建用户插件，支持自定义用户名和密码生成规则。
 ## 功能特点
